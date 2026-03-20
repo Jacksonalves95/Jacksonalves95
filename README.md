@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, sou Jackson Alves</h1>
 <h3 align="center">Profissional da área de infraestrutura de TI e Estudante de Análise e Desenvolvimento de Sistemas.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacksonalves95" alt="jacksonalves95" /></a> </p>
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jackson-alves-183206297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jackson-alves-183206297" height="30" width="40" /></a>
