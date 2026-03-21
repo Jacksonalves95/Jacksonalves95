@@ -40,7 +40,7 @@ Atuo há mais de **10 anos na área de tecnologia**, com foco em **infraestrutur
 ## 📬 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jacksonalves95-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jacksonalves95)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jackson_Alves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jackson_Alves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-alves-183206297/)
 
 ---
 
