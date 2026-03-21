@@ -2,7 +2,7 @@
 
 ### 💻 Profissional de TI | Infraestrutura · ☁️ Cloud & Sysadmin · 🎓 Estudante de ADS
 
-Atuo há mais de **10 anos na área de tecnologia**, com foco em **infraestrutura de TI** — suporte, servidores, redes e ambientes em nuvem. Atualmente cursando **Análise e Desenvolvimento de Sistemas na UNINTER**, expandindo minha atuação para o desenvolvimento de software.
+Atuo há mais de **10 anos na área de tecnologia**, com foco em **infraestrutura de TI** — suporte, servidores, redes e ambientes em nuvem. Atualmente cursando **Análise e Desenvolvimento de Sistemas na UNINTER**, expandindo minha atuação para o desenvolvimento de sites e softwares.
 
 ---
 
