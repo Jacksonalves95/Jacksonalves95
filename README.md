@@ -26,15 +26,6 @@ Atuo há mais de **10 anos na área de tecnologia**, com foco em **infraestrutur
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jacksonalves95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacksonalves95&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## 🎓 Formação & Certificações
 
 - 🏛️ **Análise e Desenvolvimento de Sistemas** — UNINTER *(em andamento)*
@@ -43,15 +34,6 @@ Atuo há mais de **10 anos na área de tecnologia**, com foco em **infraestrutur
 - ☁️ **Cloud Fundamentals, Administration and Solution Architect** — FIAP
 - 🛡️ **Cybersecurity Fundamentals** — IBM
 - 🤖 **Artificial Intelligence Fundamentals** — IBM
-
----
-
-## 📂 Projetos em Destaque
-
-| Projeto | Descrição | Tech |
-|---|---|---|
-| [UPEI! GAMES](https://github.com/Jacksonalves95/UPEI-GAMES) | Portal de games com reviews, dicas e lançamentos | HTML · CSS · JS |
-| [Portfólio Web](https://github.com/Jacksonalves95/portfolio-missias) | Portfólio pessoal com dark mode e validação de formulário | HTML · CSS · JS |
 
 ---
 
